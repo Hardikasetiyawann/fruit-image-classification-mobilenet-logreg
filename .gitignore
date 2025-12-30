@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (opsional, hapus jika ingin upload model)
+# model/*.h5
+# model/*.pkl
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
