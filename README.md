@@ -101,7 +101,7 @@ fruit-image-classification-mobilenet-logreg/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/username/fruit-image-classification-cnn.git
+git clone https://github.com/Hardikasetiyawann/fruit-image-classification-mobilenet-logreg.git
 cd fruit-image-classification-cnn
 ````
 
