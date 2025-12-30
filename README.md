@@ -71,7 +71,7 @@ Project ini dikembangkan secara end-to-end, mulai dari pemodelan di
 ## 📂 Struktur Project
 ```
 
-fruit-image-classification-cnn/
+fruit-image-classification-mobilenet-logreg/
 │
 ├── app.py
 ├── requirements.txt
@@ -165,7 +165,5 @@ http://127.0.0.1:5000
 
 ## 👨‍💻 Author
 
-Project ini dikembangkan sebagai bagian dari pembelajaran
-**Machine Learning dan Computer Vision** tahun 2025.
-
-```
+**Hardika Setiyawan**
+Informatics Student | Computer Vision & Machine Learning
